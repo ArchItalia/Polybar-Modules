@@ -49,8 +49,7 @@ impostare la propria localita' in weather.sh , trova il tuo codice localita' qui
 
 ## Nvidia GPU
 ![Screenshot from 2022-11-04 02-13-38](https://user-images.githubusercontent.com/117321045/199870623-a026f375-7c38-47e6-8280-395e365111f4.png)
-
-necessita di Nvidia-smi
+- GPU nvidia-smi Usage% Temp°C (Prerequisistes: Sudo pacman -S nvidia)
 
 ## Redshift
 ![Screenshot from 2022-11-04 10-41-51](https://user-images.githubusercontent.com/117321045/199953944-b07884e3-e1b3-4a20-bb91-79a366ad8bdf.png)
