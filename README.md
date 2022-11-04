@@ -57,6 +57,6 @@ necessita di Nvidia-smi
 
 ## Cache
 ![Screenshot from 2022-11-04 10-47-23](https://user-images.githubusercontent.com/117321045/199955166-9bf6fd73-fb84-43df-b4d9-7d03df3b7784.png)
-Cache Home, Cache Packages, Packages Orphans.
+- Cache Home, Cache Packages, Packages Orphans.
 
 
