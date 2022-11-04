@@ -32,3 +32,10 @@ inserisci il file in /home/.config/autostart
 
 Impostare il proprio codice Key API in weather.sh
 impostare la propria localita' in weather.sh , trova il tuo codice localita' qui  https://openweathermap.org/find 
+
+## Trash
+modificare il file modules.ini e nel comando per aprire il cestino cambiare NAUTILUS con il proprio file manager
+
+## Updates
+Per usare questo Modulo e' necessario usare https://github.com/JonathanSanfilippo/Archmain
+
