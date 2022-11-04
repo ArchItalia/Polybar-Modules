@@ -59,4 +59,8 @@ impostare la propria localita' in weather.sh , trova il tuo codice localita' qui
 ![Screenshot from 2022-11-04 10-47-23](https://user-images.githubusercontent.com/117321045/199955166-9bf6fd73-fb84-43df-b4d9-7d03df3b7784.png)
 - Cache Home, Cache Packages, Packages Orphans.
 
+## Wifi-ssid
+![Screenshot from 2022-11-04 11-00-10](https://user-images.githubusercontent.com/117321045/199958173-6d735779-9968-4d77-a9f8-d1a9539a560b.png)
+![Screenshot from 2022-11-04 11-00-22](https://user-images.githubusercontent.com/117321045/199958185-396554d8-cfbe-4f07-ae0c-e80aa0e5d8d4.png)
+- base delle impostazioni di rete / stato delle informazioni SSID Wi-Fi / clic sinistro: apri le impostazioni di rete di Gnome, modificabile con il proprio pannello di impostazioni basta modificare module.ini
 
