@@ -1,7 +1,6 @@
 # Polybar-Modules
-![Screenshot from 2022-11-04 02-17-32](https://user-images.githubusercontent.com/117321045/199870904-a197a3e1-c517-4f1f-b3e3-8513a2792244.png)
+![Screenshot from 2022-11-04 10-48-46](https://user-images.githubusercontent.com/117321045/199955085-178d92ca-06e4-478e-87f0-a6861b8d5a34.png)
 
-![Screenshot from 2022-11-04 00-39-51](https://user-images.githubusercontent.com/117321045/199871010-499ff97d-3a0e-4104-9628-95f03239e892.png)
 
 ### Installazione Polybar
 Vedi https://github.com/polybar/polybar copia dunque gli scripts in ~/.config/polybar/scripts/
@@ -56,6 +55,8 @@ necessita di Nvidia-smi
 ![Screenshot from 2022-11-04 10-41-51](https://user-images.githubusercontent.com/117321045/199953944-b07884e3-e1b3-4a20-bb91-79a366ad8bdf.png)
 - Redshift on/off / Scroll cambia temperatura (Prerequisiti: Sudo pacman -S redshift)
 
-
+## Cache
+![Screenshot from 2022-11-04 10-47-23](https://user-images.githubusercontent.com/117321045/199955166-9bf6fd73-fb84-43df-b4d9-7d03df3b7784.png)
+Cache Home, Cache Packages, Packages Orphans.
 
 
