@@ -64,3 +64,6 @@ impostare la propria localita' in weather.sh , trova il tuo codice localita' qui
 ![Screenshot from 2022-11-04 11-00-22](https://user-images.githubusercontent.com/117321045/199958185-396554d8-cfbe-4f07-ae0c-e80aa0e5d8d4.png)
 - base delle impostazioni di rete / stato delle informazioni SSID Wi-Fi / clic sinistro: apri le impostazioni di rete di Gnome, modificabile con il proprio pannello di impostazioni basta modificare module.ini
 
+## CPU Temperature RAM SWAP DISCO
+![Screenshot from 2022-11-04 11-08-19](https://user-images.githubusercontent.com/117321045/199959391-fe7dcc11-1541-47dd-9bc4-22dd0a687678.png)
+- non necessita di script basta aggiungere il codice module.ini
