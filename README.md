@@ -8,9 +8,11 @@ Aggiungi la configurazione del file modules.ini in ~/.config/polybar/modules.ini
 
 ### Fonts
 
-install 
-font-0 = "Cantarell:pixelsize=10;1"
-font-1 = "Font Awesome 6 Free:bold:pixelsize=10;2"
+installa font Awesome sudo pacman -S  otf-font-awesome
+
+- font-0 = "Cantarell:pixelsize=10;1"
+- font-1 = "Font Awesome 6 Free:bold:pixelsize=10;2"
+
 
 ### Autostart
 Crea il file polybar.desktop
