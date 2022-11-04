@@ -38,7 +38,7 @@ modificare il file modules.ini e nel comando per aprire il cestino cambiare NAUT
 
 ## Updates
 ![Screenshot from 2022-11-04 02-02-47](https://user-images.githubusercontent.com/117321045/199869272-46e38168-00f7-47d7-9eff-f64f223b7d90.png)
-Per usare questo Modulo e' necessario usare https://github.com/JonathanSanfilippo/Archmain
+- Per usare questo Modulo e' necessario usare https://github.com/JonathanSanfilippo/Archmain
 
 ![Screenshot from 2022-11-04 01-54-29](https://user-images.githubusercontent.com/117321045/199868420-2de894df-845c-432d-846f-55ecf4b93461.png)
 
