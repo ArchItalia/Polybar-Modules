@@ -6,3 +6,6 @@ Polybar-Modules
 
 Impostare il proprio codice Key API in weather.sh
 impostare la propria localita' in weather.sh , trova il tuo codice localita' qui  https://openweathermap.org/find 
+
+### Installazione Polybar
+Vedi https://github.com/polybar/polybar 
