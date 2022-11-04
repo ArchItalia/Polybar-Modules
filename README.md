@@ -1,6 +1,7 @@
 # Polybar-Modules
 ![Screenshot from 2022-11-04 02-17-32](https://user-images.githubusercontent.com/117321045/199870904-a197a3e1-c517-4f1f-b3e3-8513a2792244.png)
 
+![Screenshot from 2022-11-04 00-39-51](https://user-images.githubusercontent.com/117321045/199871010-499ff97d-3a0e-4104-9628-95f03239e892.png)
 
 ### Installazione Polybar
 Vedi https://github.com/polybar/polybar copia dunque gli scripts in ~/.config/polybar/scripts/
