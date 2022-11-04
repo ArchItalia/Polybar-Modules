@@ -2,6 +2,7 @@
 ![Screenshot from 2022-11-04 10-48-46](https://user-images.githubusercontent.com/117321045/199955085-178d92ca-06e4-478e-87f0-a6861b8d5a34.png)
 ![Screenshot from 2022-11-04 11-08-19](https://user-images.githubusercontent.com/117321045/199958685-5c09e0c8-aee6-47e8-ab80-904fcfd1bfa6.png)
 ![Screenshot from 2022-11-04 10-51-07](https://user-images.githubusercontent.com/117321045/199955563-a0406463-c554-4351-b3b9-0fc99c68fd52.png)
+![Screenshot from 2022-11-04 11-16-44](https://user-images.githubusercontent.com/117321045/199960180-ea24fc37-cc32-4848-b306-403abb3dbd0d.png)
 
 ### Installazione Polybar
 Vedi https://github.com/polybar/polybar copia dunque gli scripts in ~/.config/polybar/scripts/
