@@ -15,11 +15,13 @@ installa font Awesome sudo pacman -S  otf-font-awesome
 
 
 ### Autostart
+
 Crea il file polybar.desktop
-[Desktop Entry]
-Type=Application
-Name=polybar
-Exec=/home/TUO-NOME-UTENTE/.config/polybar/launch.sh
+
+- [Desktop Entry]
+- Type=Application
+- Name=polybar
+- Exec=/home/TUO-NOME-UTENTE/.config/polybar/launch.sh
 
 inserisci il file in /home/.config/autostart 
 
