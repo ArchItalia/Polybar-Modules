@@ -52,6 +52,8 @@ impostare la propria localita' in weather.sh , trova il tuo codice localita' qui
 
 necessita di Nvidia-smi
 
+## Redshift
+![Screenshot from 2022-11-04 10-41-51](https://user-images.githubusercontent.com/117321045/199953944-b07884e3-e1b3-4a20-bb91-79a366ad8bdf.png)
 
 
 
