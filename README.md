@@ -42,3 +42,13 @@ modificare il file modules.ini e nel comando per aprire il cestino cambiare NAUT
 
 ![Screenshot from 2022-11-04 01-54-29](https://user-images.githubusercontent.com/117321045/199868420-2de894df-845c-432d-846f-55ecf4b93461.png)
 
+## Nvidia GPU
+![Screenshot from 2022-11-04 02-13-38](https://user-images.githubusercontent.com/117321045/199870623-a026f375-7c38-47e6-8280-395e365111f4.png)
+
+necessita di Nvidia-smi
+
+
+
+
+
+
