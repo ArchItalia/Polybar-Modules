@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Jonathan Sanfilippo
 
 ~/.config/polybar/scripts/weather.sh
 
