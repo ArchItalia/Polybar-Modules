@@ -38,7 +38,7 @@ impostare la propria localita' in weather.sh , trova il tuo codice localita' qui
 ## Trash
 ![Screenshot from 2022-11-04 10-37-25](https://user-images.githubusercontent.com/117321045/199953012-b1131747-5f96-4fd8-89cc-29632334c2cd.png)
 ![Screenshot from 2022-11-04 10-36-33](https://user-images.githubusercontent.com/117321045/199952908-17b918a7-2cea-48de-a563-3a60381117de.png)
-modificare il file modules.ini e nel comando per aprire il cestino cambiare NAUTILUS con il proprio file manager
+- modificare il file modules.ini e nel comando per aprire il cestino cambiare NAUTILUS con il proprio file manager
 
 ## Updates
 ![Screenshot from 2022-11-04 02-02-47](https://user-images.githubusercontent.com/117321045/199869272-46e38168-00f7-47d7-9eff-f64f223b7d90.png)
